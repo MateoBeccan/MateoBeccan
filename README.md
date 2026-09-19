@@ -1,17 +1,13 @@
 <div align="center">
 
-# 👋 Hey, I'm Mateo Beccan
+# 👋 Hi, I'm Mateo Beccan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Development+Student;Java+%7C+Spring+Boot+%7C+SQL;Building+projects+%26+learning+every+day;AI-assisted+development+%F0%9F%A4%96" alt="Typing SVG" />
+### Software Development Student | Java • Spring Boot • SQL
 
-### ☕ Backend-focused developer in progress
+Final-year Software Development student focused on backend development, REST APIs and relational databases.
 
-Building software, learning constantly and occasionally debugging things that worked yesterday.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo_Beccan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mateobeccan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/MateoBeccan/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo_Beccan-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mateobeccan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat\&logo=vercel\&logoColor=white)](https://github.com/MateoBeccan/portfolio)
 
 </div>
 
@@ -19,63 +15,37 @@ Building software, learning constantly and occasionally debugging things that wo
 
 ## 👨‍💻 About Me
 
-```java
-public class Mateo {
-
-    String role = "Software Development Student";
-
-    String[] mainStack = {
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "REST APIs"
-    };
-
-    String currentFocus = "Backend Development";
-
-    boolean usesAI = true;
-    boolean alwaysLearning = true;
-
-    void currentMission() {
-        System.out.println(
-            "Learn. Build. Break things. Fix them. Repeat. 🚀"
-        );
-    }
-}
-```
-
-🎓 Final-year **Software Development** student
-☕ Focused on **Java, Spring Boot and backend development**
-🗄️ Interested in **SQL, relational databases and data modeling**
-🔌 Building **REST APIs and full-stack applications**
-🤖 Using **AI as a development assistant** in my workflow
-🌎 Interested in **Junior / Internship opportunities**
-🎧 When I'm not coding, I'm probably mixing **Tech House**
+* 🎓 Final-year **Software Development** student
+* ☕ Focused on **Java, Spring Boot and backend development**
+* 🗄️ Interested in **SQL, relational databases and data modeling**
+* 🔌 Experience building **REST APIs and full-stack applications**
+* 🤖 Using **AI-assisted development tools** as part of my workflow
+* 🌎 Open to **Junior Developer and Internship opportunities**
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
 </p>
 
-### 🛠️ Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode" />
@@ -83,113 +53,61 @@ public class Mateo {
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🚗 Dealership Management System
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/MateoBeccan/concesionaria)
+Management system for vehicle dealerships covering inventory, vehicles, reservations, sales and payments.
 
-Transactional management system designed to handle the core operations of a vehicle dealership.
+[View Repository](https://github.com/MateoBeccan/concesionaria)
 
-**Features include:**
-
-* Vehicle and inventory management
-* Sales and reservations
-* Partial and complete payments
-* Business-rule validation
-* Currency conversion
-* Reservation expiration
-* Inventory history
-
-`Java` `Spring Boot` `MySQL` `Vue` `JHipster` `REST API`
+`Java` `Spring Boot` `MySQL` `Vue` `JHipster`
 
 ---
 
 ### 🏥 Hospital Management System
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/MateoBeccan/hospital-system)
+Hospital management application for patients, doctors, appointments, medical records, hospitalizations and billing.
 
-Hospital management system designed around real-world healthcare processes and relational data.
+[View Repository](https://github.com/MateoBeccan/hospital-system)
 
-**Includes:**
-
-* Patients and employees
-* Doctors and specialties
-* Medical appointments
-* Medical records
-* Consultations and diagnoses
-* Hospitalizations
-* Prescriptions and treatments
-* Billing and payments
-
-`Java` `Spring Boot` `MySQL` `Vue` `REST API`
+`Java` `Spring Boot` `MySQL` `Vue`
 
 ---
 
 ### 🤖 JobMatch AI
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/MateoBeccan/jobmatch-ai)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel)](https://jobmatch-ai-ten.vercel.app/)
+Web application that compares a CV with a job posting and generates structured compatibility feedback using AI.
 
-AI-assisted application that compares a CV with a job posting and provides structured feedback about the candidate-job match.
+[View Repository](https://github.com/MateoBeccan/jobmatch-ai) • [Live Demo](https://jobmatch-ai-ten.vercel.app/)
 
-The goal is simple:
-
-> Spend less time manually comparing job requirements and more time improving the application.
-
-`Next.js` `TypeScript` `Tailwind CSS` `AI` `Vercel`
+`Next.js` `TypeScript` `Tailwind CSS` `AI`
 
 ---
 
 ### 🏙️ CityFix
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/MateoBeccan/cityfix)
+Full-stack platform for reporting and managing city issues with authentication, role-based access and notifications.
 
-Full-stack platform for reporting and managing issues around a city.
+[View Repository](https://github.com/MateoBeccan/cityfix)
 
-Includes authentication, role-based access, claims management, notifications and REST API communication.
-
-`Java` `Spring Boot` `React` `JWT` `REST API`
+`Java` `Spring Boot` `React` `JWT`
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-Backend Engineering    █████████████████░░░
-Advanced SQL           ███████████████░░░░░
-System Design          ███████████░░░░░░░░░
-AI-assisted Dev        ██████████████████░░
-CSS                    ███░░░░░░░░░░░░░░░░ 😅
-```
-
-My current goal is not just to learn more technologies, but to understand how to build software with better **architecture, business rules, maintainability and data modeling**.
-
----
-
-## 🤖 How I Use AI
-
-I use AI as a development assistant throughout my workflow:
-
-`Understand → Design → Implement → Review → Debug → Improve`
-
-It helps me explore solutions, understand unfamiliar code, review implementations and speed up repetitive tasks — while keeping the final technical decisions under my control.
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MateoBeccan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MateoBeccan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoBeccan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoBeccan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Watch my contributions disappear
+## 🐍 Contributions
 
 <p align="center">
   <picture>
@@ -201,42 +119,10 @@ It helps me explore solutions, understand unfamiliar code, review implementation
 
 ---
 
-## 🎮 Developer Status
-
-```text
-🟢 Coding
-🟢 Learning
-🟢 Building projects
-🟢 Drinking coffee
-🟡 Debugging something that worked yesterday
-🔴 Pretending CSS always makes sense
-```
-
----
-
-## 🎧 Beyond Code
-
-When I'm away from the IDE, I enjoy:
-
-🎧 DJing & Tech House
-🎹 Learning music production
-🧠 Exploring AI tools
-🚀 Building side projects
-
-Because sometimes the solution isn't another `System.out.println()`.
-
-Sometimes you just need a kick drum.
-
----
-
 <div align="center">
 
-### `while (alive) { learn(); build(); improve(); }`
+### Let's connect
 
-<br>
-
-**Thanks for visiting! 👋**
-
-⭐ If you find one of my projects interesting, feel free to explore it.
+I'm interested in opportunities where I can continue learning, contribute to real projects and grow as a software developer.
 
 </div>
