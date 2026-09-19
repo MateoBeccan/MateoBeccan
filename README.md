@@ -53,48 +53,6 @@ Final-year Software Development student focused on backend development, REST API
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Dealership Management System
-
-Management system for vehicle dealerships covering inventory, vehicles, reservations, sales and payments.
-
-[View Repository](https://github.com/MateoBeccan/concesionaria)
-
-`Java` `Spring Boot` `MySQL` `Vue` `JHipster`
-
----
-
-### 🏥 Hospital Management System
-
-Hospital management application for patients, doctors, appointments, medical records, hospitalizations and billing.
-
-[View Repository](https://github.com/MateoBeccan/hospital-system)
-
-`Java` `Spring Boot` `MySQL` `Vue`
-
----
-
-### 🤖 JobMatch AI
-
-Web application that compares a CV with a job posting and generates structured compatibility feedback using AI.
-
-[View Repository](https://github.com/MateoBeccan/jobmatch-ai) • [Live Demo](https://jobmatch-ai-ten.vercel.app/)
-
-`Next.js` `TypeScript` `Tailwind CSS` `AI`
-
----
-
-### 🏙️ CityFix
-
-Full-stack platform for reporting and managing city issues with authentication, role-based access and notifications.
-
-[View Repository](https://github.com/MateoBeccan/cityfix)
-
-`Java` `Spring Boot` `React` `JWT`
-
----
-
 ## 🐍 Contributions
 
 <p align="center">
