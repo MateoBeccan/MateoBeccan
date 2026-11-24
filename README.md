@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year **Software Development** student
+ **Software Development**
 ☕ Focused on **Java, Spring Boot and backend development**
 🗄️ Interested in **SQL, relational databases and data modeling**
 🔌 Building **REST APIs and full-stack applications**
